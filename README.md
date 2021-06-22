@@ -1,7 +1,7 @@
 
 <p align="center">
   <img height="130px"
-  src="https://syphersamurai.github.io/vuetify-sypher/images/logo.png">
+  src="https://raw.githubusercontent.com/syphersamurai/vuetify-sypher/main/images/icon.png">
 </p>
 
 <h1 align="center">vuetify-sypher</h1>
