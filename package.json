@@ -1,0 +1,75 @@
+{
+    "name": "vuetify-sypher",
+    "displayName": "vuetify-sypher",
+    "publisher": "syphersamurai",
+    "description": "a vscode vuetify snippet",
+    "version": "0.0.1",
+    "icon": "images/icon.png",
+    "repository": {
+        "url": "https://github.com/syphersamurai/vuetify-sypher"
+    },
+    "author": {
+        "name": "syphersamurai",
+        "url": "https://twitter.com/samuraisypher"
+    },
+    "homepage": "https://github.com/syphersamurai/vuetify-sypher/blob/main/README.md",
+    "galleryBanner": {
+        "color": "#585858",
+        "theme": "dark"
+    },
+    "preview": false,
+    "keywords": [
+        "vuetify",
+        "vuetify sypher",
+        "snippet",
+        "vuetify snippet",
+        "sypher"
+    ],
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Snippets",
+        "Other"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "vue",
+                "path": "./snippets/vuetify.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/javascript.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/javascript.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/javascript.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/javascript.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/vuetify.json"
+            },
+            {
+                "language": "vue-html",
+                "path": "./snippets/vuetify.json"
+            },
+            {
+                "language": "jade",
+                "path": "./snippets/vuetify.json"
+            }
+        ]
+    },
+    "bugs": {
+        "url": "https://github.com/syphersamurai/vuetify-sypher/issues"
+    },
+    "license": "MIT"
+}
