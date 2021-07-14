@@ -3,7 +3,7 @@
     "displayName": "vuetify-sypher",
     "publisher": "syphersamurai",
     "description": "a vscode vuetify snippet",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "icon": "images/icon.png",
     "repository": {
         "url": "https://github.com/syphersamurai/vuetify-sypher"
