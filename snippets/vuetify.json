@@ -10933,7 +10933,6 @@
         ],
         "description": "margin-top by 11 - Vuetify"
     },
-
     "mt-12": {
         "prefix": "mt-12",
         "body": [
@@ -11172,7 +11171,6 @@
         ],
         "description": "margin-bottom by 11 - Vuetify"
     },
-
     "mb-12": {
         "prefix": "mb-12",
         "body": [
@@ -11411,7 +11409,6 @@
         ],
         "description": "margin-left by 11 - Vuetify"
     },
-
     "ml-12": {
         "prefix": "ml-12",
         "body": [
@@ -11650,7 +11647,6 @@
         ],
         "description": "margin-right by 11 - Vuetify"
     },
-
     "mr-12": {
         "prefix": "mr-12",
         "body": [
@@ -11889,7 +11885,6 @@
         ],
         "description": " margin-left/padding-left (in LTR mode) and margin-right/padding-right (in RTL mode) by 11 - Vuetify"
     },
-
     "ms-12": {
         "prefix": "ms-12",
         "body": [
@@ -12128,7 +12123,6 @@
         ],
         "description": "applies the spacing for margin-right/padding-right (in LTR mode) and margin-left/padding-left (in RTL mode) by 11 - Vuetify"
     },
-
     "me-12": {
         "prefix": "me-12",
         "body": [
@@ -12367,7 +12361,6 @@
         ],
         "description": "both margin-right and margin-left by 11 - Vuetify"
     },
-
     "mx-12": {
         "prefix": "mx-12",
         "body": [
@@ -12606,7 +12599,6 @@
         ],
         "description": "both margin-top and margin-bottom by 11 - Vuetify"
     },
-
     "my-12": {
         "prefix": "my-12",
         "body": [
@@ -12845,7 +12837,6 @@
         ],
         "description": "margin to all directions by 11 - Vuetify"
     },
-
     "ma-12": {
         "prefix": "ma-12",
         "body": [
@@ -13000,8 +12991,6 @@
         ],
         "description": "margin to all directions by auto - Vuetify"
     },
-
-
     "pt-0": {
         "prefix": "pt-0",
         "body": [
@@ -13086,7 +13075,6 @@
         ],
         "description": "padding-top by 11 - Vuetify"
     },
-
     "pt-12": {
         "prefix": "pt-12",
         "body": [
@@ -13325,7 +13313,6 @@
         ],
         "description": "padding-bottom by 11 - Vuetify"
     },
-
     "pb-12": {
         "prefix": "pb-12",
         "body": [
@@ -13564,7 +13551,6 @@
         ],
         "description": "padding-left by 11 - Vuetify"
     },
-
     "pl-12": {
         "prefix": "pl-12",
         "body": [
@@ -13803,7 +13789,6 @@
         ],
         "description": "padding-right by 11 - Vuetify"
     },
-
     "pr-12": {
         "prefix": "pr-12",
         "body": [
@@ -14042,7 +14027,6 @@
         ],
         "description": " padding-left/padding-left (in LTR mode) and padding-right/padding-right (in RTL mode) by 11 - Vuetify"
     },
-
     "ps-12": {
         "prefix": "ps-12",
         "body": [
@@ -14281,7 +14265,6 @@
         ],
         "description": "applies the spacing for padding-right/padding-right (in LTR mode) and padding-left/padding-left (in RTL mode) by 11 - Vuetify"
     },
-
     "pe-12": {
         "prefix": "pe-12",
         "body": [
@@ -14520,7 +14503,6 @@
         ],
         "description": "both padding-right and padding-left by 11 - Vuetify"
     },
-
     "px-12": {
         "prefix": "px-12",
         "body": [
@@ -14759,7 +14741,6 @@
         ],
         "description": "both padding-top and padding-bottom by 11 - Vuetify"
     },
-
     "py-12": {
         "prefix": "py-12",
         "body": [
@@ -14998,7 +14979,6 @@
         ],
         "description": "padding to all directions by 11 - Vuetify"
     },
-
     "pa-12": {
         "prefix": "pa-12",
         "body": [
@@ -15153,7 +15133,6 @@
         ],
         "description": "padding to all directions by auto - Vuetify"
     },
-
     "text H1": {
         "prefix": "textH1",
         "body": [
@@ -19109,7 +19088,6 @@
         ],
         "description": "open-delay - Vuetify"
     },
-
     "close-delay": {
         "prefix": "closeDelay",
         "body": [
@@ -19440,5 +19418,17 @@
             "<v-col cols=\"${1}\">${2}</v-col>"
         ],
         "description": "v-col component - Vuetify"
+    },
+    "v-img component - Vuetify": {
+        "prefix": "vImg",
+        "body": [
+            "<v-img",
+            "  lazy-src=\"https://picsum.photos/id/11/10/6\"",
+            "  max-height=\"150\"",
+            "  max-width=\"250\"",
+            "  src=\"https://picsum.photos/id/11/500/300\"",
+            "></v-img>"
+        ],
+        "description": "v-img component - Vuetify"
     }
 }
